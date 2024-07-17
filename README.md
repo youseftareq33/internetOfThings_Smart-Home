@@ -8,6 +8,9 @@
 
 ## Topology:
 
-- ![](project_photo/1.jpg)
+- V1:
+   ![](project_photo/1.jpg)
 
+- V2:
+   ![](project_photo/2.jpg)
 
